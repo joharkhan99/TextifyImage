@@ -1,6 +1,6 @@
 {
   "name": "textifyimage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "textifyimage is a lightweight npm package that allows you to extract text from images effortlessly.",
   "main": "index.js",
   "type": "module",
