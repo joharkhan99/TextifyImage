@@ -43,8 +43,3 @@ Please note that the `extractTextFromImage` function returns a promise, which al
 ## License
 
 This package is licensed under the ISC License.
-
-```
-
-You can save this content in a file named `readme.md` within your package directory.
-```
