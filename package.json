@@ -27,6 +27,7 @@
   "author": "Johar Khan",
   "license": "ISC",
   "dependencies": {
+    "canvas": "^2.11.2",
     "tesseract.js": "^4.1.1"
   }
 }
