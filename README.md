@@ -81,7 +81,7 @@ convertTextToImage({
 
 #### Output
 
-[](output.png)
+<img src="output.png" alt="output.png" />
 
 Please note that the `convertTextToImage` function returns a promise, which allows you to handle the result asynchronously.
 
