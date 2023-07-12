@@ -14,7 +14,7 @@ npm install textifyimage
 
 To use the TextifyImage package, follow these steps:
 
-### Image to Text (Extract text from image)
+## Image to Text (Extract text from image)
 
 1. Import the `extractTextFromImage` function from the package:
 
@@ -42,7 +42,7 @@ text
 
 Please note that the `extractTextFromImage` function returns a promise, which allows you to handle the result asynchronously.
 
-### Image to Text (Extract text from image)
+## Image to Text (Extract text from image)
 
 2. Call the `convertTextToImage` function, passing desired parameters. The function returns a promise:
 
